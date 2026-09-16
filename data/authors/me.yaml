@@ -1,0 +1,59 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Md. Nazmussakib
+  given: Nazmussakib
+  family: Md.
+  alternate: ''
+  pronunciation: ''
+  pronouns: he/him
+postnominals: []
+status:
+  icon: "🎓"
+role: Doctorate Student, Computer Science
+bio: |
+  Md. Nazmussakib is a Doctorate student in Computer Science at the University of the Potomac,
+  focused on artificial intelligence and emerging technologies. His academic path spans
+  Public Administration, Information Technology, and now advanced computing research.
+
+affiliations:
+  - name: University of the Potomac
+    url: https://potomac.edu/
+
+links:
+  - icon: at-symbol
+    url: mailto:your-real-email@example.com
+    label: E-mail Me
+  - icon: brands/github
+    url: https://github.com/Nazmussakib67
+
+interests:
+  - Artificial Intelligence
+  - Machine Learning
+  - Software Design and Management
+
+education:
+  - degree: Doctorate in Computer Science
+    institution: University of the Potomac, Washington, DC
+    start: 2024-01-01
+    end: ''
+  - degree: MS Information Technology (Software Design and Management)
+    institution: Washington University of Science and Technology
+    start: 2022-01-01
+    end: 2023-12-31
+  - degree: BA Public Administration
+    institution: ''
+    start: ''
+    end: ''
+
+experience: []
+
+skills: []
+
+languages:
+  - name: English
+    level: 5
+    label: Fluent
+
+awards: []
