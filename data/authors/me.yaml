@@ -23,29 +23,35 @@ affiliations:
 
 links:
   - icon: at-symbol
-    url: mailto:your-real-email@example.com
+    url: mailto:nshakib2017@gmail.com
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/Nazmussakib67
 
 interests:
-  - Artificial Intelligence
-  - Machine Learning
-  - Software Design and Management
+  - Artificial Intelligence in Healthcare and Cancer Detection
+  - Medical Image Analysis and Computational Pathology
+  - Deep Learning, Computer Vision, and Hybrid AI Models
+  - Multi-scale Feature Learning and Attention-Based Fusion
+  - Explainable AI, Robustness, and Model Generalization
+  - Machine Learning and Predictive Analytics
 
 education:
   - degree: Doctorate in Computer Science
     institution: University of the Potomac, Washington, DC
-    start: 2024-01-01
+    url: https://potomac.edu/
+    start: 2025-11-01
     end: ''
   - degree: MS Information Technology (Software Design and Management)
     institution: Washington University of Science and Technology
-    start: 2022-01-01
-    end: 2023-12-31
+    url: https://www.wust.edu/
+    start: 2022-09-01
+    end: 2024-10-31
   - degree: BA Public Administration
-    institution: ''
-    start: ''
-    end: ''
+    institution: Bangladesh University of Professionals (BUP)
+    url: https://bup.edu.bd/
+    start: 2017-01-01
+    end: 2021-03-31
 
 experience: []
 
