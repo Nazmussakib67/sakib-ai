@@ -137,9 +137,3 @@ jobs:
           pnpm run pagefind || npx pagefind --site "public"
         fi
 
-    - name: Upload artifact
-      if: github.event_name == 'workflow_call' && vars.DEPLOY_HOST == 'github-pages'
-      id: upload
-      uses: actions/upload-pages-artifact@v4
-      with:
-        path: ./public
