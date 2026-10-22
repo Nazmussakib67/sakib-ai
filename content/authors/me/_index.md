@@ -20,7 +20,7 @@ education:
     end: Continue
   - degree: MS Information Technology (Software Design and Management)
     institution: Washington University of Science and Technology
-    url: https://wustl.edu/
+    url: https://www.wust.edu/
     start: 2022-09-01
     end: 2024-10-31
   - degree: BA Public Administration
