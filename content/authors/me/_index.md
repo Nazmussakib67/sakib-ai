@@ -6,22 +6,28 @@ organizations:
     url: 'https://potomac.edu/'
 bio: Doctoral student researching artificial intelligence for healthcare, medical image classification, and robust machine learning.
 interests:
-  - AI-assisted cancer detection and classification
-  - Medical imaging and computational pathology
-  - Deep learning and computer vision
-  - Attention-based feature fusion
-  - Explainable AI and model robustness
+  - Artificial Intelligence in Healthcare and Cancer Detection
+  - Medical Image Analysis and Computational Pathology
+  - Deep Learning, Computer Vision, and Hybrid AI Models
+  - Multi-scale Feature Learning and Attention-Based Fusion
+  - Explainable AI, Robustness, and Model Generalization
+  - Machine Learning and Predictive Analytics
 education:
-  courses:
-    - course: Doctorate in Computer Science (Oct 2025–Present)
-      institution: University of the Potomac, Washington, DC
-      year: 'Present'
-    - course: M.S. in Information Technology, Software Design and Management (2024)
-      institution: Washington University of Science and Technology, Alexandria, VA
-      year: '2024'
-    - course: B.S.S. in Public Administration (2021)
-      institution: Bangladesh University of Professionals, Dhaka
-      year: '2021'
+  - degree: Doctorate in Computer Science
+    institution: University of the Potomac, Washington, DC
+    url: https://potomac.edu/
+    start: 2025-11-01
+    end: Continue
+  - degree: MS Information Technology (Software Design and Management)
+    institution: Washington University of Science and Technology
+    url: https://wustl.edu/
+    start: 2022-09-01
+    end: 2024-10-31
+  - degree: BA Public Administration
+    institution: Bangladesh University of Professionals (BUP)
+    url: https://bup.edu.bd/
+    start: 2017-01-01
+    end: 2021-03-31
 social:
   - icon: envelope
     icon_pack: fas
