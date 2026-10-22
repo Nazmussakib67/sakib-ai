@@ -22,6 +22,13 @@ sections:
         shape: circle
   - block: markdown
     content:
+      title: 'Academic Resume'
+      text: |-
+        [**View or Download My Resume (PDF)**](/uploads/resume.pdf)
+    design:
+      columns: '1'
+  - block: markdown
+    content:
       title: 'Research Focus'
       text: |-
         I study applications of artificial intelligence and deep learning in healthcare, especially medical image classification and AI-assisted cancer detection. My proposed research explores combining local and global visual features, improving generalization across diverse datasets, and making model decisions more interpretable.
