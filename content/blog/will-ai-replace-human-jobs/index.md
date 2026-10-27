@@ -1,6 +1,6 @@
 ---
 image:
-  filename: "/images/ai-perspectives/will-ai-replace-human-jobs.svg"
+  filename: "featured.svg"
 title: "Will AI Replace Human Jobs—or Change What Work Means?"
 date: 2025-03-12
 draft: false
@@ -8,7 +8,7 @@ summary: "AI will automate tasks unevenly; the central challenge is helping peop
 tags: ["Artificial Intelligence", "AI and Work"]
 ---
 
-<img src="/images/ai-perspectives/will-ai-replace-human-jobs.svg" alt="Illustration for this AI perspective" loading="lazy" style="width:100%;height:auto;border-radius:12px;">
+![Illustration for this AI perspective](featured.svg)
 
 ## Why this question matters
 
