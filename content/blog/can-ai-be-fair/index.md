@@ -8,7 +8,7 @@ summary: "Bias, fairness, and the limits of apparently objective algorithms."
 tags: ["Artificial Intelligence", "AI Ethics"]
 ---
 
-![Illustrated article cover](/images/ai-perspectives/can-ai-be-fair.svg)
+<img src="/images/ai-perspectives/can-ai-be-fair.svg" alt="Illustration for this AI perspective" loading="lazy" style="width:100%;height:auto;border-radius:12px;">
 
 ## Why fairness is difficult
 
