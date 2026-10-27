@@ -21,11 +21,10 @@ hugoblox:
     # Short tagline displayed on your site
     tagline: ""
     # Site meta description for search engines and social sharing
-    description: "The highly-customizable Hugo Academic theme powered by HugoBlox
-      Kit. Easily create your personal academic website."
+    description: "Academic research portfolio of Md. Nazmussakib, Doctorate Student in Computer Science, focused on artificial intelligence, deep learning, and healthcare research."
     # Social accounts (used for meta tags like Twitter Cards)
     social:
-      twitter: "GoOwnable" # Twitter/X handle for Twitter Cards (without @)
+      twitter: "" # No Twitter/X handle configured
 
   # ────────────────────────────────────────────────────────────────────────────
   # THEME
