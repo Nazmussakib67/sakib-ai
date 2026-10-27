@@ -8,7 +8,7 @@ summary: "From clicking through apps to delegating tasks—and the limits of aut
 tags: ["Artificial Intelligence", "AI Agents"]
 ---
 
-![Illustrated article cover](/images/ai-perspectives/ai-agents-future-of-software.svg)
+<img src="/images/ai-perspectives/ai-agents-future-of-software.svg" alt="Illustration for this AI perspective" loading="lazy" style="width:100%;height:auto;border-radius:12px;">
 
 ## From answering questions to taking action
 
