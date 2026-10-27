@@ -1,10 +1,14 @@
 ---
+image:
+  filename: "/images/ai-perspectives/ai-agents-future-of-software.svg"
 title: "Will AI Agents Change How We Use Software?"
-date: 2026-10-27
+date: 2026-07-14
 draft: false
 summary: "From clicking through apps to delegating tasks—and the limits of autonomy."
 tags: ["Artificial Intelligence", "AI Agents"]
 ---
+
+![Illustrated article cover](/images/ai-perspectives/ai-agents-future-of-software.svg)
 
 ## From answering questions to taking action
 
