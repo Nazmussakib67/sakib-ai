@@ -64,3 +64,5 @@ security:
 sitemap:
   _merge: deep
   filename: sitemap.xml
+
+# Rebuild website with canonical domain
