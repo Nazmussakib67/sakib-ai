@@ -1,6 +1,6 @@
 ---
 image:
-  filename: "/images/ai-perspectives/ai-agents-future-of-software.svg"
+  filename: "featured.svg"
 title: "Will AI Agents Change How We Use Software?"
 date: 2026-07-14
 draft: false
@@ -8,7 +8,7 @@ summary: "From clicking through apps to delegating tasks—and the limits of aut
 tags: ["Artificial Intelligence", "AI Agents"]
 ---
 
-<img src="/images/ai-perspectives/ai-agents-future-of-software.svg" alt="Illustration for this AI perspective" loading="lazy" style="width:100%;height:auto;border-radius:12px;">
+![Illustration for this AI perspective](featured.svg)
 
 ## From answering questions to taking action
 
