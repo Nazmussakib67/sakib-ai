@@ -1,10 +1,14 @@
 ---
+image:
+  filename: "/images/ai-perspectives/can-we-trust-ai-answers.svg"
 title: "Can We Trust AI Answers When They Sound So Confident?"
-date: 2026-10-27
+date: 2025-07-24
 draft: false
 summary: "Why fluent answers are not the same as verified facts."
 tags: ["Artificial Intelligence", "AI Reliability"]
 ---
+
+![Illustrated article cover](/images/ai-perspectives/can-we-trust-ai-answers.svg)
 
 ## The problem with convincing language
 
