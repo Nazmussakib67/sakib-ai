@@ -1,10 +1,14 @@
 ---
+image:
+  filename: "/images/ai-perspectives/will-ai-become-more-intelligent-than-humans.svg"
 title: "Will AI Become More Intelligent Than Humans?"
-date: 2026-10-27
+date: 2025-11-18
 draft: false
 summary: "What superintelligence means—and why predictions require humility."
 tags: ["Artificial Intelligence", "Future of AI"]
 ---
+
+![Illustrated article cover](/images/ai-perspectives/will-ai-become-more-intelligent-than-humans.svg)
 
 ## First, what does “more intelligent” mean?
 
