@@ -1,6 +1,6 @@
 ---
 image:
-  filename: "/images/ai-perspectives/ai-environmental-cost.svg"
+  filename: "featured.svg"
 title: "Is AI's Environmental Cost Worth Its Benefits?"
 date: 2026-09-03
 draft: false
@@ -8,7 +8,7 @@ summary: "Understanding energy, water, hardware, and the tradeoffs of AI infrast
 tags: ["Artificial Intelligence", "AI and Environment"]
 ---
 
-<img src="/images/ai-perspectives/ai-environmental-cost.svg" alt="Illustration for this AI perspective" loading="lazy" style="width:100%;height:auto;border-radius:12px;">
+![Illustration for this AI perspective](featured.svg)
 
 ## AI has a physical footprint
 
