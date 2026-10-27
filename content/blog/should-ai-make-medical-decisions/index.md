@@ -8,7 +8,7 @@ summary: "Where AI can help clinicians and why accountability matters."
 tags: ["Artificial Intelligence", "Healthcare AI"]
 ---
 
-![Illustrated article cover](/images/ai-perspectives/should-ai-make-medical-decisions.svg)
+<img src="/images/ai-perspectives/should-ai-make-medical-decisions.svg" alt="Illustration for this AI perspective" loading="lazy" style="width:100%;height:auto;border-radius:12px;">
 
 ## The promise of AI in healthcare
 
