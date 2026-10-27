@@ -8,7 +8,7 @@ summary: "The tension between useful personalization and control over personal d
 tags: ["Artificial Intelligence", "AI Privacy"]
 ---
 
-![Illustrated article cover](/images/ai-perspectives/ai-privacy-surveillance.svg)
+<img src="/images/ai-perspectives/ai-privacy-surveillance.svg" alt="Illustration for this AI perspective" loading="lazy" style="width:100%;height:auto;border-radius:12px;">
 
 ## Why AI systems want data
 
