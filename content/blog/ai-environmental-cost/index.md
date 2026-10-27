@@ -8,7 +8,7 @@ summary: "Understanding energy, water, hardware, and the tradeoffs of AI infrast
 tags: ["Artificial Intelligence", "AI and Environment"]
 ---
 
-![Illustrated article cover](/images/ai-perspectives/ai-environmental-cost.svg)
+<img src="/images/ai-perspectives/ai-environmental-cost.svg" alt="Illustration for this AI perspective" loading="lazy" style="width:100%;height:auto;border-radius:12px;">
 
 ## AI has a physical footprint
 
