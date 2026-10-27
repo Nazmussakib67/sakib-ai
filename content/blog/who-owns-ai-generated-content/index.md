@@ -1,10 +1,14 @@
 ---
+image:
+  filename: "/images/ai-perspectives/who-owns-ai-generated-content.svg"
 title: "Who Owns AI-Generated Art, Writing, and Ideas?"
-date: 2026-10-27
+date: 2026-03-05
 draft: false
 summary: "How generative AI complicates creativity, attribution, and ownership."
 tags: ["Artificial Intelligence", "AI and Creativity"]
 ---
+
+![Illustrated article cover](/images/ai-perspectives/who-owns-ai-generated-content.svg)
 
 ## A new kind of creative tool
 
