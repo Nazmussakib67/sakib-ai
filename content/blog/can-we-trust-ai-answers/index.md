@@ -8,7 +8,7 @@ summary: "Why fluent answers are not the same as verified facts."
 tags: ["Artificial Intelligence", "AI Reliability"]
 ---
 
-![Illustrated article cover](/images/ai-perspectives/can-we-trust-ai-answers.svg)
+<img src="/images/ai-perspectives/can-we-trust-ai-answers.svg" alt="Illustration for this AI perspective" loading="lazy" style="width:100%;height:auto;border-radius:12px;">
 
 ## The problem with convincing language
 
