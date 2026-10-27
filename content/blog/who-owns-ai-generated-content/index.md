@@ -8,7 +8,7 @@ summary: "How generative AI complicates creativity, attribution, and ownership."
 tags: ["Artificial Intelligence", "AI and Creativity"]
 ---
 
-![Illustrated article cover](/images/ai-perspectives/who-owns-ai-generated-content.svg)
+<img src="/images/ai-perspectives/who-owns-ai-generated-content.svg" alt="Illustration for this AI perspective" loading="lazy" style="width:100%;height:auto;border-radius:12px;">
 
 ## A new kind of creative tool
 
