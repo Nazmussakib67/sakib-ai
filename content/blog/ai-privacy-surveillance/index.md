@@ -1,10 +1,14 @@
 ---
+image:
+  filename: "/images/ai-perspectives/ai-privacy-surveillance.svg"
 title: "Can We Benefit From AI Without Sacrificing Privacy?"
-date: 2026-10-27
+date: 2026-10-12
 draft: false
 summary: "The tension between useful personalization and control over personal data."
 tags: ["Artificial Intelligence", "AI Privacy"]
 ---
+
+![Illustrated article cover](/images/ai-perspectives/ai-privacy-surveillance.svg)
 
 ## Why AI systems want data
 
