@@ -8,7 +8,7 @@ summary: "AI will automate tasks unevenly; the central challenge is helping peop
 tags: ["Artificial Intelligence", "AI and Work"]
 ---
 
-![Illustrated article cover](/images/ai-perspectives/will-ai-replace-human-jobs.svg)
+<img src="/images/ai-perspectives/will-ai-replace-human-jobs.svg" alt="Illustration for this AI perspective" loading="lazy" style="width:100%;height:auto;border-radius:12px;">
 
 ## Why this question matters
 
