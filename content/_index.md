@@ -1,8 +1,31 @@
 ---
 title: ''
-summary: 'Academic research portfolio of Md. Nazmussakib'
+summary: 'AI perspectives, news commentary, and academic research by Md. Nazmussakib'
 type: landing
 sections:
+  - block: markdown
+    content:
+      title: ''
+      text: |-
+        <style>
+        .ai-editorial{max-width:1160px;margin:0 auto;font-family:system-ui,-apple-system,sans-serif;color:#e9f0ff}.ai-editorial *{box-sizing:border-box}.ai-hero{position:relative;overflow:hidden;border-radius:28px;padding:clamp(30px,6vw,76px);background:radial-gradient(ellipse at 85% 10%,#284a94 0,transparent 52%),linear-gradient(125deg,#101b35,#152b51 65%,#152b48);border:1px solid #39517a}.ai-kicker{font-size:.78rem;font-weight:750;letter-spacing:.15em;text-transform:uppercase;color:#9ec7ff}.ai-hero h1{color:white!important;font-size:clamp(2.5rem,5.6vw,5.1rem)!important;line-height:1.08!important;letter-spacing:-.045em;margin:20px 0!important;max-width:850px}.ai-hero p{font-size:clamp(1.05rem,1.6vw,1.3rem);line-height:1.75;color:#cbd9f2;max-width:690px;margin:0 0 28px}.ai-actions{display:flex;flex-wrap:wrap;gap:12px}.ai-actions a{display:inline-block;text-decoration:none!important;padding:13px 21px;border-radius:12px;font-weight:700}.ai-primary{background:#e8f1ff;color:#132d5a!important}.ai-secondary{border:1px solid #8299bf;color:white!important}.ai-editorial-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px;margin:25px 0}.ai-editorial-card{padding:26px;border:1px solid #d6deeb;border-radius:19px;background:#f7faff;color:#1b3153;box-shadow:0 9px 30px rgba(30,55,92,.055)}.ai-editorial-card .ai-label{font-size:.75rem;letter-spacing:.11em;text-transform:uppercase;color:#4566a4;font-weight:800}.ai-editorial-card h2{font-size:1.45rem!important;line-height:1.3!important;margin:12px 0!important;color:#152e51!important}.ai-editorial-card p{color:#4e5d76;font-size:.96rem;line-height:1.7}.ai-editorial-card a{color:#244eb5!important;font-weight:750;text-decoration:none!important}.ai-editorial-note{font-size:.9rem;color:#60728e;line-height:1.6;margin:0 3px}@media(max-width:820px){.ai-editorial-grid{grid-template-columns:1fr}.ai-hero{border-radius:20px}.ai-actions a{flex:1;text-align:center}}
+        </style>
+        <div class="ai-editorial">
+          <div class="ai-hero">
+            <div class="ai-kicker">SAKIB AI · Independent perspectives &amp; research</div>
+            <h1>Making sense of the future of AI.</h1>
+            <p>Thoughts on artificial intelligence, emerging technology, and the ideas shaping our world. I explore important AI developments, share my perspective on the news, and document my research journey.</p>
+            <div class="ai-actions"><a class="ai-primary" href="/blog/">Read My Perspectives →</a><a class="ai-secondary" href="/ai-news/">AI News &amp; My Take</a><a class="ai-secondary" href="/research/">Academic Research</a></div>
+          </div>
+          <div class="ai-editorial-grid">
+            <div class="ai-editorial-card"><span class="ai-label">01 / Original writing</span><h2>My Perspectives</h2><p>Independent commentary and accessible explanations of AI, deep learning, agents, and technology's wider impact.</p><a href="/blog/">Explore essays →</a></div>
+            <div class="ai-editorial-card"><span class="ai-label">02 / Curated coverage</span><h2>AI News &amp; My Take</h2><p>Noteworthy reporting from established outlets, paired with my analysis and links to the original journalism.</p><a href="/ai-news/">Explore commentary →</a></div>
+            <div class="ai-editorial-card"><span class="ai-label">03 / Academic work</span><h2>Research &amp; Publications</h2><p>My research interests, publications, selected projects, and work in machine learning and healthcare AI.</p><a href="/research/">View research →</a></div>
+          </div>
+          <p class="ai-editorial-note">A personal publication by Md. Nazmussakib. Opinions are my own; linked reporting remains the work of its original publisher.</p>
+        </div>
+    design:
+      columns: '1'
   - block: resume-biography-3
     content:
       username: me
