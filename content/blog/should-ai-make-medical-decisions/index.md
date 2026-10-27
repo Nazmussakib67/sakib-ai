@@ -1,10 +1,14 @@
 ---
+image:
+  filename: "/images/ai-perspectives/should-ai-make-medical-decisions.svg"
 title: "Should AI Make Medical Decisions?"
-date: 2026-10-27
+date: 2026-01-21
 draft: false
 summary: "Where AI can help clinicians and why accountability matters."
 tags: ["Artificial Intelligence", "Healthcare AI"]
 ---
+
+![Illustrated article cover](/images/ai-perspectives/should-ai-make-medical-decisions.svg)
 
 ## The promise of AI in healthcare
 
