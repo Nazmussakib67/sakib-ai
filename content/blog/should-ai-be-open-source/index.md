@@ -8,7 +8,7 @@ summary: "Balancing transparency, innovation, competition, and misuse risks."
 tags: ["Artificial Intelligence", "AI Governance"]
 ---
 
-![Illustrated article cover](/images/ai-perspectives/should-ai-be-open-source.svg)
+<img src="/images/ai-perspectives/should-ai-be-open-source.svg" alt="Illustration for this AI perspective" loading="lazy" style="width:100%;height:auto;border-radius:12px;">
 
 ## The case for openness
 
