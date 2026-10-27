@@ -1,10 +1,14 @@
 ---
+image:
+  filename: "/images/ai-perspectives/should-ai-be-open-source.svg"
 title: "Should Powerful AI Models Be Open Source?"
-date: 2026-10-27
+date: 2026-06-02
 draft: false
 summary: "Balancing transparency, innovation, competition, and misuse risks."
 tags: ["Artificial Intelligence", "AI Governance"]
 ---
+
+![Illustrated article cover](/images/ai-perspectives/should-ai-be-open-source.svg)
 
 ## The case for openness
 
