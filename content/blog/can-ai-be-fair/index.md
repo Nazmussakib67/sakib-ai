@@ -1,10 +1,14 @@
 ---
+image:
+  filename: "/images/ai-perspectives/can-ai-be-fair.svg"
 title: "Can Artificial Intelligence Ever Be Truly Fair?"
-date: 2026-10-27
+date: 2026-04-16
 draft: false
 summary: "Bias, fairness, and the limits of apparently objective algorithms."
 tags: ["Artificial Intelligence", "AI Ethics"]
 ---
+
+![Illustrated article cover](/images/ai-perspectives/can-ai-be-fair.svg)
 
 ## Why fairness is difficult
 
