@@ -1,10 +1,14 @@
 ---
+image:
+  filename: "/images/ai-perspectives/will-ai-replace-human-jobs.svg"
 title: "Will AI Replace Human Jobs—or Change What Work Means?"
-date: 2026-10-27
+date: 2025-03-12
 draft: false
 summary: "AI will automate tasks unevenly; the central challenge is helping people adapt."
 tags: ["Artificial Intelligence", "AI and Work"]
 ---
+
+![Illustrated article cover](/images/ai-perspectives/will-ai-replace-human-jobs.svg)
 
 ## Why this question matters
 
